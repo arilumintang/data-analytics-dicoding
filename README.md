@@ -5,8 +5,9 @@ This project involves data analysis and visualization centered on e-commerce pub
 
 ### Installation
 1. Clone this repository to your local machine
-   
-   `git clone https://github.com/arilumintang/data-analytics-dicoding.git`
+   ```python
+   git clone https://github.com/arilumintang/data-analytics-dicoding.git
+   ```
 3. Go to the project directory
   ```cd data-analytics-dicoding```
 4. Install the required Python packages, check Requirements.txt
