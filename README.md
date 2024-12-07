@@ -5,7 +5,17 @@ This project involves data analysis and visualization centered on e-commerce pub
 
 ### Installation
 1. Clone this repository to your local machine
-   git clone https://github.com/arilumintang/data-analytics-dicoding/tree/main
+   ```git clone https://github.com/arilumintang/data-analytics-dicoding/tree/main```
 3. Go to the project directory
-  
+  ```cd data-analytics-dicoding```
 4. Install the required Python packages, check Requirements.txt
+
+### Usage
+
+1. **Data Wrangling:** The .ipynb file contains scripts for preparing and cleaning the data.
+2. **Exploratory Data Analysis (EDA):** Use the included Python scripts to explore and analyze the data. EDA provides valuable insights into patterns within the e-commerce public dataset.
+3. **Visualization:** Launch the Streamlit dashboard for an interactive exploration of the data.
+
+Access:
+1. Local URL: http://localhost:8501
+2. Network URL: http://192.168.104.126:8501
