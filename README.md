@@ -8,9 +8,20 @@ This project involves data analysis and visualization centered on e-commerce pub
    ```python
    git clone https://github.com/arilumintang/data-analytics-dicoding.git
    ```
-3. Go to the project directory
-  ```cd data-analytics-dicoding```
-4. Install the required Python packages, check Requirements.txt
+2. Go to the project directory
+   ```python
+   cd data-analytics-dicoding
+   ```
+3. Install the required Python packages, check Requirements.txt
+
+### Setup Environment - Shell/Terminal
+```python
+mkdir proyek_analisis_data
+cd proyek_analisis_data
+pipenv install
+pipenv shell
+pip install -r Requirements.txt
+```
 
 ### Usage
 
