@@ -26,7 +26,7 @@ pip install -r Requirements.txt
 ### Run Streamlit App
 
 ```python
-streamlit run dashboard.py
+streamlit run Streamlit.py
 ```
 
 Access:
